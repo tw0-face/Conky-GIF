@@ -1,5 +1,7 @@
 Run a GIF as a conky widget
 
+![alt text](conky-demo.gif)
+
 # Download the project
 
 ```sh
